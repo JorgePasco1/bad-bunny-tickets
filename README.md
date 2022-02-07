@@ -1,3 +1,3 @@
 # 🐰 Tickets
 
-A python application to enter multiple times to the queue for the Bad Bunny Concert in Peru, 2022.
+A python application to enter multiple times to the queue for Bad Bunny's concert in Peru, 2022.
