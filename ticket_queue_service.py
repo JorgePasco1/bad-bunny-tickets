@@ -19,6 +19,7 @@ def multiple_queueing(number_of_queues: int):
         # buy_button.click()
         driver.get(
             'https://queue.teleticket.com.pe/?c=puntoticket&e=ics014&t_cal=1&t_ct=2')
+        driver.refresh()
 
     for i in range(number_of_queues + 1):
         print(f"Opening browser {i + 1}")
